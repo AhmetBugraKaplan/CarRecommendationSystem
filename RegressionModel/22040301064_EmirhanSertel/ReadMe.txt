@@ -1,0 +1,2 @@
+FET445_22040301064_MotorCetesi_4.ipynb klasörü ana kodumdur.
+emirhanEDAkısmıdetaylıkod.ipynb kısmında EDA kısmında detaylıca uğraştığımız için paylaşmak istedim.
